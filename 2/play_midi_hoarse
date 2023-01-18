@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 /home/art/Dropbox/Programming/python/midi/instrument_draft/play_midi.py $*
